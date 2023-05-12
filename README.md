@@ -13,4 +13,4 @@ You will also need to add your OpenAI API key in the .env file.
 # Usage 
 To use the application, run the main.py file with the streamlit CLI:
 
-    streamlit run app.py
+    streamlit run pdf-ai-assistant.py
