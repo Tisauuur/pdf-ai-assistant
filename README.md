@@ -1,5 +1,4 @@
 # pdf-ai-assistant
-AI-powered PDF tool that can translate, summarize and chat with your PDF files.
 
 Pdf-AI-Assistant is a repository containing an AI-powered PDF tool that can translate, summarize and chat with your PDF files.
 
